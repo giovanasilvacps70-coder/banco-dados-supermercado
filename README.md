@@ -1,6 +1,6 @@
 # Banco de Dados para Supermercado
 
-Projeto acadêmico de banco de dados relacional para gerenciamento de um supermercado, desenvolvido utilizando MySQL.
+Projeto acadêmico desenvolvido em MySQL, envolvendo levantamento de requisitos, modelagem conceitual e lógica e implementação de banco de dados para gerenciamento de supermercado.
 
 ## Objetivo
 
